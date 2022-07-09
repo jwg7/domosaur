@@ -4,7 +4,7 @@ messWithMe.style.backgroundColor = 'green'
 
 
 let hideMe = document.querySelector('#hide-me')
-hideMe.style.opacity = '.00';
+hideMe.style.display = 'none'
 
 
 let firstImg = document.querySelector('#triceratops');
